@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/work-with-rds-and-dynamodb-aws-with-python-and-boto3-series-video/9781838646899)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Work-with-RDS-and-DynamoDB-AWS-with-Python-and-Boto3-Series
 Code Repository for Work with RDS and DynamoDB: AWS with Python and Boto3 Series, Published by Packt
 # Work with RDS and DynamoDB: AWS with Python and Boto3 Series
